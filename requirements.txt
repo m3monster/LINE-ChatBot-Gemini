@@ -1,0 +1,6 @@
+line-bot-sdk>=3.0.0
+fastapi
+uvicorn
+python-dotenv
+google-genai
+pydantic 
