@@ -8,7 +8,7 @@ This project is a LINE ChatBot built using FastAPI and the LINE Messaging API. I
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/m3monster/LINE-ChatBot-Gemini
    cd gemini-bot
    ```
 
